@@ -1,0 +1,17 @@
+{
+  "name": "aoijs-hc-bt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^6.0.0",
+    "chalk": "^5.1.2",
+    "colors": "^1.4.0"
+  }
+}
